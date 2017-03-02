@@ -1,0 +1,10 @@
+1.Ans is 18. 1point
+2.1. Variable name should start with a letter or an underscore.
+3. c is not defined. 1 point.
+4.1 point
+5.
+6.
+7.
+8.
+9.
+10.2 points
